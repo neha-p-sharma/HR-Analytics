@@ -1,6 +1,7 @@
 # HR Analytics Dashboard
 # Dashboard link : https://app.fabric.microsoft.com/view?r=eyJrIjoiODBkMjdlNTMtODRhOC00NjJhLWI4MTktNzIzMjQwZWJjMTg4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-# Dashboard Preview
+# Dashboard Preview : ![image](https://github.com/neha-p-sharma/HR-Analytics/assets/168817042/f91d7c39-f21d-4a77-ad59-7931e1431dd0)
+
 # Project Overview :
 🔍 In today's dynamic workplace landscape, understanding employee presence and leave patterns is pivotal. With this dashboard, I've harnessed the data to provide comprehensive insights that drive strategic decision-making:
 
